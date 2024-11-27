@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hello World 👋
 
 - 🔭 I’m currently working on Next.js & Node project
 - 🌱 I’m currently learning TypeScript, Node.js
